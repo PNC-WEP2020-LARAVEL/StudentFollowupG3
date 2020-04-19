@@ -1,5 +1,4 @@
-<body class="bg" style="background-image: url('{{asset("templete/images/logo.webp")}}');">
- 
+
     @extends('layouts.app')
 
     @section('content')
@@ -112,4 +111,3 @@
         </div>
     </div>
     @endsection
-</body>

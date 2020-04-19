@@ -1,6 +1,5 @@
-<body class="bg" style="background-image: url('{{asset("templete/images/logo.webp")}}');">
-    
-    
+
+
     @extends('layouts.app')
     @section('content')
     <div class="background-showdow">
@@ -30,7 +29,7 @@
                                 
                                 <div class="form-group row">
                                     <label for="password" class="col-md-4 col-form-label text-md-right">{{ __('Password') }}</label>
-                                    
+
                                     <div class="col-md-6">
                                         <input id="password" type="password" class="form-control @error('password') is-invalid @enderror" name="password" required autocomplete="current-password">
                                         
@@ -75,4 +74,3 @@
     </div>
 </div>
 @endsection
-</body>
