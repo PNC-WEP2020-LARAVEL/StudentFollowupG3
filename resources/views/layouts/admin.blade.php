@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Follow Up System</title>
+  <title>Student Follow Management</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Font Awesome -->
@@ -195,7 +195,7 @@
                 </a>
               </li>
 
-          
+
           <li class="nav-item">
             <a href="#" class="nav-link">
               <i class="fas fa-circle nav-icon"></i>
